@@ -1,3 +1,5 @@
+Project Description:
+
 This C++ program is designed to create a simple calendar for a specified year. It allows the user to input a year, and then generates a calendar displaying each month with the corresponding days of the week. The program takes into account leap years and adjusts the number of days in February accordingly.
 
 Technology Used:
@@ -52,4 +54,6 @@ Repeat or Exit:
 
 The user can choose to view calendars for different Months or years by running the program again or exit as desired.
 
+Name:Md Azad Hossen
+ID:222-115-223
 
