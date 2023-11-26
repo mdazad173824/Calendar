@@ -46,7 +46,8 @@ Enter the desired year when prompted.View Calendar:
 The program will display the calendar for the specified year.
 Repeat or Exit:
 
-<img width="941" alt="Screenshot_97" src="https://github.com/mdazad173824/Calendar/assets/128245241/76dbf30e-c24c-4a8f-bdd6-6f98e4b65dd2">
+<img width="946" alt="Screenshot_98" src="https://github.com/mdazad173824/Calendar/assets/128245241/3d6805b4-7ea4-44ab-88d0-3c59e757f641">
+
 
 
 The user can choose to view calendars for different Months or years by running the program again or exit as desired.
