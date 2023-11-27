@@ -13,6 +13,7 @@ Features:
 Year Input:
 
 The user is prompted to input a specific year.
+
 Leap Year Handling:
 
 The program checks if the entered year is a leap year, adjusting the number of days in February accordingly.
