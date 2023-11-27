@@ -17,6 +17,7 @@ The user is prompted to input a specific year.
 Leap Year Handling:
 
 The program checks if the entered year is a leap year, adjusting the number of days in February accordingly.
+
 Day Calculation:
 
 The first day of the year is calculated to properly align the days of the week in the calendar.
